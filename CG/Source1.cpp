@@ -319,7 +319,8 @@ void Mouse(int button, int state, int x, int y)
 
 void Menu(int pos)
 {
-	int key = (keys)pos;
+	int key;
+	key = (keys)pos;
 
 	switch (key)
 	{
