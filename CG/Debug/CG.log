@@ -1,0 +1,7 @@
+﻿  point.cpp
+  poligon.cpp
+C:\Users\Artyom\source\repos\CG\CG\poligon.cpp(9,20): warning C4018: '<': signed/unsigned mismatch
+  Source1.cpp
+C:\Users\Artyom\source\repos\CG\CG\Source1.cpp(168,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  CG.vcxproj -> C:\Users\Artyom\source\repos\CG\Debug\CG.exe
